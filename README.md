@@ -189,7 +189,7 @@ unlabeled_taxa{
 
 ```
 
-For labeled training images in `l_train` and validation images in `val`, the subfolder name corresponds to the `class_id` in annotation.
+For labeled training images in `l_train` and validation images in `val`, the subfolder name corresponds to the `class_id` in the annotation.
 
 For each unlabeled training image, we provide its kingdom and phylum information.
 
