@@ -119,14 +119,14 @@ training and validation set in any way they like. Participants are
 models from previous iNaturalist competitions 
 (including iNat-17, iNat-18, iNat-19, iNat-21, and Semi-Aves) 
 or any other datasets. 
-However, participants **are allowed** to use ImageNet pre-trained
+However, participants **are allowed** to use ImageNet-1k (not 21k) pre-trained
 model (e.g., pre-trained models from
 [torchvision](https://pytorch.org/docs/stable/torchvision/models.html)).
 If you cannot verify the training set of a model, we strongly urge you
 to not use them because of the potential overlap of class labels.
 
 The general rule is that participants should only use the provided
-images and annotations (except for the ImageNet
+images and annotations (except for the ImageNet-1k
 pre-trained models) to train a model. 
 For example, dataset from previous iNaturalist competitions or other
 existing datasets, collecting data from the web or iNaturalist
@@ -213,7 +213,7 @@ A [sample solution](solutions_sample.csv) is provided.
 
 
 ## Baseline Performace
-The performance using a fine-tuned ImageNet pre-trained
+The performance using a fine-tuned ImageNet-1k pre-trained
 [ResNet-50](https://pytorch.org/docs/stable/_modules/torchvision/models/resnet.html)
 on 224x224 images on the labeled data only is shown below.
 We hope you can significantly improve the performance using the
