@@ -240,3 +240,5 @@ FGVC team, Kaggle team, iNaturalist, Grant van Horn, and Oisin Mac Aodha.
 ## Organizer
 Jong-Chyi Su (UMass Amherst) `jcsu@cs.umass.edu`
 
+## Previous Competition
+* [2020 Competition](https://github.com/cvl-umass/semi-inat-2020)
