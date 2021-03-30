@@ -24,7 +24,7 @@ with the dataset.
 
 ### Updates
 * 3/8/2021: Dataset released, challenge starts.
-* 3/30/2021: **The annotation has been updated, please use the updated version (`annotation_v2.json`).**
+* 3/30/2021: **The annotation has been updated, please use the updated version ([annotation_v2.json](http://vis-www.cs.umass.edu/semi-inat-2021/annotation_v2.json)).**
 
 
 ### Important Dates
