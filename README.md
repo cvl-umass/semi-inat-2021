@@ -24,6 +24,7 @@ with the dataset.
 
 ### Updates
 * 3/8/2021: Dataset released, challenge starts.
+* 3/30/2021: **The annotation has been updated, please use the updated version (`annotation_v2.json`).**
 
 
 ### Important Dates
@@ -150,7 +151,7 @@ You can download the dataset files here or on [Kaggle](https://www.kaggle.com/c/
       
   * [Test images [271MB]](http://vis-www.cs.umass.edu/semi-inat-2021/test.tar.gz)
       
-  * [Annotations [31MB]](http://vis-www.cs.umass.edu/semi-inat-2021/annotation.json)
+  * [Annotations (v2) [31MB]](http://vis-www.cs.umass.edu/semi-inat-2021/annotation_v2.json)
 
 The annotations are stored in the JSON format and are organized as follows:
 
@@ -167,7 +168,8 @@ info{
   "description" : str,
   "contributor" : str,
   "url" : str,
-  "date_created" : datetime
+  "date_created" : datetime,
+  "version" : str
 }
 
 annotation{
