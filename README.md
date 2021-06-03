@@ -25,6 +25,8 @@ with the dataset.
 ### Updates
 * 3/8/2021: Dataset released, challenge starts.
 * 3/30/2021: **The annotation has been updated, please use the updated version ([annotation_v2.json](http://vis-www.cs.umass.edu/semi-inat-2021/annotation_v2.json)).**
+* 6/1/2021: The Kaggle competition has ended. We will have a discussion of the competition at the [FGVC8 workshop](https://sites.google.com/view/fgvc8) on 6/25/2021.
+* 6/3/2021: The tech report of the dataset is now on [arXiv](https://arxiv.org/abs/2106.01364).
 
 
 ### Important Dates
@@ -235,6 +237,18 @@ By downloading this dataset you agree to the following terms:
 4. UMass Amherst makes no representations or warranties regarding the data, including but not limited to warranties of non-infringement or fitness for a particular purpose.
 5. You accept full responsibility for your use of the data and shall defend and indemnify UMass Amherst, including its employees, officers, and agents, against any and all claims arising from your use of the data, including but not limited to your use of any copies of copyrighted images that you may create from the data.
 
+## Citation
+If you are using this dataset, please cite this [arXiv paper](https://arxiv.org/abs/2106.01364):
+```
+@misc{su2021semi_iNat,
+      title={The Semi-Supervised iNaturalist Challenge at the FGVC8 Workshop}, 
+      author={Jong-Chyi Su and Subhransu Maji},
+      year={2021},
+      eprint={2106.01364},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Acknowledgements
 FGVC team, Kaggle team, iNaturalist, Grant van Horn, and Oisin Mac Aodha.
