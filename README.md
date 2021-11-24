@@ -27,7 +27,7 @@ with the dataset.
 * 3/30/2021: **The annotation has been updated, please use the updated version ([annotation_v2.json](http://vis-www.cs.umass.edu/semi-inat-2021/annotation_v2.json)).**
 * 6/1/2021: The Kaggle competition has ended. We will have a discussion of the competition at the [FGVC8 workshop](https://sites.google.com/view/fgvc8) on 6/25/2021.
 * 6/3/2021: The tech report of the dataset is now on [arXiv](https://arxiv.org/abs/2106.01364).
-* 7/23/2021: **Test set labels, and the labels for unlabeled data are released**. Please check [this link](https://github.com/cvl-umass/ssl-evaluation/tree/main/data/semi_inat). In addition, **the full taxonomy of all the species are also released** (check [this json file](https://github.com/cvl-umass/ssl-evaluation/blob/main/data/semi_inat/all_taxa_info.json)).
+* 7/23/2021: **Test set labels, and the labels for unlabeled data are released** ([check this link](https://github.com/cvl-umass/ssl-evaluation/tree/main/data/semi_inat)). In addition, **the full taxonomy of all the species are also released** ([check this json file](https://github.com/cvl-umass/ssl-evaluation/blob/main/data/semi_inat/all_taxa_info.json)).
 
 
 ### Important Dates
